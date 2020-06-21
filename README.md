@@ -1,0 +1,3 @@
+This is a modified version of the Arduino code for inspecting the 6502 bus provided by Ben Eater at https://eater.net/6502.
+
+The modified version allows you to set a pin of an Arduino to act as a source clock signal and saves the need for a separate clock 'module'. This is helpful while the 6502 breadboard computer is under construction and lacks its own dedicated clock crystal oscillator provided in the assembly kit.  
